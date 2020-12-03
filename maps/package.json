@@ -9,7 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "@types/faker": "^5.1.4",
+    "faker": "^5.1.0"
+  },
   "devDependencies": {
     "typescript": "^4.1.2"
   }
